@@ -45,6 +45,6 @@ provider "aws" {
 
 this code shows how to use the variables to deploy the infrastructure using the variables
 
-This will not do much by itself but the same logic can be applied whne using code to deploy a AWS resource
+This will not do much by itself but the same logic can be applied when using code to deploy a AWS resource
 
 
