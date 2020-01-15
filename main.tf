@@ -27,6 +27,5 @@ provider "aws" {
   region   = "${var.region}"
   image_id = "${var.images.us-east-1}"
   zone     = "${var.zones[0]}"
-
 }
 
